@@ -8,3 +8,9 @@
     Pandora.get().open();//UI工具-
     DoraemonKit.install(this);//集合工具
 ```
+
+[DoKit](https://github.com/didi/DoKit):
+https://github.com/didi/DoKit
+
+[pandora](https://github.com/whataa/pandora):
+https://github.com/whataa/pandora
