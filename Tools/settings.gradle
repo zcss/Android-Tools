@@ -1,0 +1,22 @@
+pluginManagement {
+    repositories {
+        maven { url 'https://maven.aliyun.com/repository/public' } // 阿里云镜像
+        maven { url 'https://jitpack.io' } // JitPack 仓库
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        maven { url = uri("https://maven.aliyun.com/repository/public/") }
+        maven { url = uri("https://maven.aliyun.com/repository/google/") }
+        maven { url = uri("https://maven.aliyun.com/repository/jcenter/") }
+        maven { url = uri("https://maven.aliyun.com/repository/central/") }
+        google()
+        mavenCentral()
+    }
+}
+
+rootProject.name = "Tools2"
+include ':app'
