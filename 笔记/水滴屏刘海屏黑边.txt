@@ -1,0 +1,5 @@
+ WindowManager.LayoutParams lp = this.getWindow().getAttributes();
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.P) {
+            lp.layoutInDisplayCutoutMode = WindowManager.LayoutParams.LAYOUT_IN_DISPLAY_CUTOUT_MODE_SHORT_EDGES;
+        }
+        this.getWindow().setAttributes(lp);
