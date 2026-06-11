@@ -14,11 +14,7 @@ buildscript {
         maven { url 'https://oss.sonatype.org/content/repositories/snapshots/' }
     }
     dependencies {
-        if (needKotlinV14()) {
-            classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:${rootProject.ext.android["kotlin_version_v14"]}"
-        } else {
-            classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:${rootProject.ext.android["kotlin_version_v13"]}"
-        }
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:${rootProject.ext.android["kotlin_version_v15"]}"
     }
 }
 //apply plugin: 'java-library'

@@ -5,12 +5,7 @@ buildscript {
     def runType = rootProject.ext.publish_config["run_type"]
     def dokitPluginVersion = rootProject.ext.publish_config["version"]
 
-    def kotlinVersion
-    if (needKotlinV14()) {
-        kotlinVersion = rootProject.ext.android["kotlin_version_v14"]
-    } else {
-        kotlinVersion = rootProject.ext.android["kotlin_version_v13"]
-    }
+    def kotlinVersion = rootProject.ext.android["kotlin_version_v15"]
 
     def gradlePluginVersion = rootProject.ext.android["agp_module_verson"]
 
