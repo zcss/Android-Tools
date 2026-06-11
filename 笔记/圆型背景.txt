@@ -1,0 +1,5 @@
+圆型背景
+val drawable = ShapeDrawable(OvalShape()).apply {
+          setBounds(5.dp, 5.dp, 5.dp, 5.dp)
+          paint.setColor(Color.WHITE)
+        }
