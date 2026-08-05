@@ -21,8 +21,8 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="0dp"
                 android:onClick="testNativeCrashInMainThread_onClick"
-                android:padding="20dp"
-                android:text="native crash (in main java thread)"
+                android:padding="15dp"
+                android:text="native crash (in main java thread)\n本机崩溃（发生在主Java线程中）"
                 android:textAllCaps="false"
                 tools:ignore="HardcodedText" />
 
@@ -32,8 +32,8 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="0dp"
                 android:onClick="testNativeCrashInAnotherJavaThread_onClick"
-                android:padding="20dp"
-                android:text="native crash (in another java thread)"
+                android:padding="15dp"
+                android:text="native crash (in another java thread)\n本机崩溃（发生在另一个Java线程中）"
                 android:textAllCaps="false"
                 tools:ignore="HardcodedText" />
 
@@ -43,8 +43,8 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="0dp"
                 android:onClick="testNativeCrashInAnotherNativeThread_onClick"
-                android:padding="20dp"
-                android:text="native crash (in another native thread)"
+                android:padding="15dp"
+                android:text="native crash (in another native thread)\n本机崩溃（发生在另一个本机线程中）"
                 android:textAllCaps="false"
                 tools:ignore="HardcodedText" />
 
@@ -54,8 +54,8 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="0dp"
                 android:onClick="testNativeCrashInAnotherActivity_onClick"
-                android:padding="20dp"
-                android:text="native crash (in another activity)"
+                android:padding="15dp"
+                android:text="native crash (in another activity)\n原生崩溃（发生在另一个活动中）"
                 android:textAllCaps="false"
                 tools:ignore="HardcodedText" />
 
@@ -68,8 +68,8 @@
                 android:layout_marginRight="0dp"
                 android:layout_marginBottom="20dp"
                 android:onClick="testNativeCrashInAnotherProcess_onClick"
-                android:padding="20dp"
-                android:text="native crash (in another process)"
+                android:padding="15dp"
+                android:text="native crash (in another process)\n本机崩溃（发生在另一个进程中）"
                 android:textAllCaps="false"
                 tools:ignore="HardcodedText" />
 
@@ -79,8 +79,8 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="0dp"
                 android:onClick="testJavaCrashInMainThread_onClick"
-                android:padding="20dp"
-                android:text="java crash (in main java thread)"
+                android:padding="15dp"
+                android:text="java crash (in main java thread)\nJava崩溃（发生在主Java线程中）"
                 android:textAllCaps="false"
                 tools:ignore="HardcodedText" />
 
@@ -90,8 +90,8 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="0dp"
                 android:onClick="testJavaCrashInAnotherThread_onClick"
-                android:padding="20dp"
-                android:text="java crash (in another java thread)"
+                android:padding="15dp"
+                android:text="java crash (in another java thread)\nJava崩溃（发生在另一个Java线程中）"
                 android:textAllCaps="false"
                 tools:ignore="HardcodedText" />
 
@@ -101,8 +101,8 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="0dp"
                 android:onClick="testJavaCrashInAnotherActivity_onClick"
-                android:padding="20dp"
-                android:text="java crash (in another activity)"
+                android:padding="15dp"
+                android:text="java crash (in another activity)\nJava崩溃（在另一个活动中）"
                 android:textAllCaps="false"
                 tools:ignore="HardcodedText" />
 
@@ -115,8 +115,8 @@
                 android:layout_marginRight="0dp"
                 android:layout_marginBottom="20dp"
                 android:onClick="testJavaCrashInAnotherProcess_onClick"
-                android:padding="20dp"
-                android:text="java crash (in another process)"
+                android:padding="15dp"
+                android:text="java crash (in another process)\nJava崩溃（在另一个进程中）"
                 android:textAllCaps="false"
                 tools:ignore="HardcodedText" />
 
@@ -126,8 +126,8 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="0dp"
                 android:onClick="testAnrInput_onClick"
-                android:padding="20dp"
-                android:text="ANR (input timeout)"
+                android:padding="15dp"
+                android:text="ANR (input timeout)\nANR（输入超时）"
                 android:textAllCaps="false"
                 tools:ignore="HardcodedText" />
         </LinearLayout>
@@ -137,5 +137,5 @@
         android:id="@+id/webview"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:padding="20dp" />
+        android:padding="15dp" />
 </LinearLayout>
