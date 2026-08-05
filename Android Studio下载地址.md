@@ -1,3 +1,1027 @@
+[原地址下载](https://developer.android.com/studio/archive?hl=zh-cn)：https://developer.android.com/studio/archive?hl=zh-cn
+
+
+Android Studio Quail 4 | 2026.1.4 Canary 1 2026 年 7 月 16 日
+
+安装程序
+
+ChromeOS：[android-studio-quail4-canary1-cros.deb](https://edgedl.me.gvt1.com/android/studio/install/2026.1.4.1/android-studio-quail4-canary1-cros.deb) (1.2 GB)
+
+Mac（Apple Silicon）：[android-studio-quail4-canary1-mac\_arm.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.4.1/android-studio-quail4-canary1-mac_arm.dmg) (1.5 GB)
+
+Mac（Intel）：[android-studio-quail4-canary1-mac.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.4.1/android-studio-quail4-canary1-mac.dmg) (1.5 GB)
+
+Windows（64 位）：[android-studio-quail4-canary1-windows.exe](https://edgedl.me.gvt1.com/android/studio/install/2026.1.4.1/android-studio-quail4-canary1-windows.exe) (1.5 GB)
+
+SHA-256 校验和
+
+c875b0a1b85e3f6751fdeb9760ef90ae60ddd76563a7b3cb9700184611dd6876 android-studio-quail4-canary1-cros.deb
+
+101d46bc42300d0ee1a4ea82ed1818f7159d19fde0389d7d5581e8c73fdf0f0e android-studio-quail4-canary1-mac\_arm.dmg
+
+08dadf1b2073cd021635f55c0204183dcb3140f1724e1451f02db3279f8a5582 android-studio-quail4-canary1-mac.dmg
+
+74e7bda63fe01bf14f4c0c191e18beea7a026ea8d8051cc734f64af4bf76cfad android-studio-quail4-canary1-windows.exe
+
+ZIP 文件
+
+Linux：[android-studio-quail4-canary1-linux.tar.gz](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.4.1/android-studio-quail4-canary1-linux.tar.gz) (1.5 GB)
+
+Windows（64 位）：[android-studio-quail4-canary1-windows.zip](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.4.1/android-studio-quail4-canary1-windows.zip) (1.5 GB)
+
+SHA-256 校验和
+
+ca71d4a0c0ec4cd80a291014f78f24dfb92d0089489bd03e99df0ac950538e5e android-studio-quail4-canary1-linux.tar.gz
+
+e333fe78a625874137c420c3e29bb37dc4ec094c63ebcfb0d3643fffbbc0998b android-studio-quail4-canary1-windows.zip
+
+Android Studio Quail 3 | 2026.1.3 RC 1 2026 年 7 月 14 日
+
+安装程序
+
+ChromeOS：[android-studio-quail3-rc1-cros.deb](https://edgedl.me.gvt1.com/android/studio/install/2026.1.3.5/android-studio-quail3-rc1-cros.deb)（1.2 GB）
+
+Mac（Apple Silicon）：[android-studio-quail3-rc1-mac\_arm.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.3.5/android-studio-quail3-rc1-mac_arm.dmg)（1.5 GB）
+
+Mac（Intel）：[android-studio-quail3-rc1-mac.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.3.5/android-studio-quail3-rc1-mac.dmg)（1.5 GB）
+
+Windows（64 位）：[android-studio-quail3-rc1-windows.exe](https://edgedl.me.gvt1.com/android/studio/install/2026.1.3.5/android-studio-quail3-rc1-windows.exe)（1.5 GB）
+
+SHA-256 校验和
+
+caec69d624a2237b42746a27117462e8313717238588ff8d9f30d4c184e3e6bb android-studio-quail3-rc1-cros.deb
+
+d15d90c6a6c3c72d7f3de478dd8088fdea9323d9994ca8096cedf9be1d42255d android-studio-quail3-rc1-mac\_arm.dmg
+
+92c637fbb01a7b84acac314d60f924338bded8a998ad15847285c202bf8c8ed3 android-studio-quail3-rc1-mac.dmg
+
+b9714a3e6e290139553fd0e100115a5c5b1b6068ed29767f3a25cba40ffa59a8 android-studio-quail3-rc1-windows.exe
+
+ZIP 文件
+
+Linux：[android-studio-quail3-rc1-linux.tar.gz](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.3.5/android-studio-quail3-rc1-linux.tar.gz)（1.6 GB）
+
+Windows（64 位）：[android-studio-quail3-rc1-windows.zip](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.3.5/android-studio-quail3-rc1-windows.zip)（1.5 GB）
+
+SHA-256 校验和
+
+3fc6285271b862d08e3e46c72c50477ed79983c70925e5ee0e0b72fa49a06d2c android-studio-quail3-rc1-linux.tar.gz
+
+b57de1e40e00f704b64efc59ef8ed37dbeca7ea0d2b1b97dceef1ee5c6a65f39 android-studio-quail3-rc1-windows.zip
+
+Android Studio Quail 2 | 2026.1.2 2026 年 7 月 14 日
+
+安装程序
+
+ChromeOS：[android-studio-quail2-cros.deb](https://edgedl.me.gvt1.com/android/studio/install/2026.1.2.10/android-studio-quail2-cros.deb)（1.2 GB）
+
+Mac（Apple Silicon）：[android-studio-quail2-mac\_arm.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.2.10/android-studio-quail2-mac_arm.dmg)（1.5 GB）
+
+Mac（Intel）：[android-studio-quail2-mac.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.2.10/android-studio-quail2-mac.dmg)（1.5 GB）
+
+Windows（64 位）：[android-studio-quail2-windows.exe](https://edgedl.me.gvt1.com/android/studio/install/2026.1.2.10/android-studio-quail2-windows.exe)（1.5 GB）
+
+SHA-256 校验和
+
+117d485d7831c1600e82bdb9bc6cd86107cc75512fe0ea55c5dad4270b275b6f android-studio-quail2-cros.deb
+
+76206134aab3bbb096666a994f97b67ac8fa688a35c1e2c5d137a306909b3cd5 android-studio-quail2-mac\_arm.dmg
+
+c77de47ce26de51951d4d447dff4dcf4908ea025cb0507121373f344c2540194 android-studio-quail2-mac.dmg
+
+938fd37c6029c2bdff8b62bed4fb8c87a260bebe2dc7da12d3f79b3af432829e android-studio-quail2-windows.exe
+
+ZIP 文件
+
+Linux：[android-studio-quail2-linux.tar.gz](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.2.10/android-studio-quail2-linux.tar.gz)（1.5 GB）
+
+Windows（64 位）：[android-studio-quail2-windows.zip](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.2.10/android-studio-quail2-windows.zip)（1.5 GB）
+
+SHA-256 校验和
+
+64445a54092e7056c6eb7f1a89ad116d0feec2ef5f965b8e594d62abdb58590f android-studio-quail2-linux.tar.gz
+
+fb0d9573d5252bf683b2255458b88fbc358166071d587a066e27cf3449d916b0 android-studio-quail2-windows.zip
+
+Android Studio Quail 3 | 2026.1.3 Canary 4 2026 年 7 月 9 日
+
+安装程序
+
+ChromeOS：[android-studio-quail3-canary4-cros.deb](https://edgedl.me.gvt1.com/android/studio/install/2026.1.3.4/android-studio-quail3-canary4-cros.deb) (1.2 GB)
+
+Mac（Apple Silicon）：[android-studio-quail3-canary4-mac\_arm.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.3.4/android-studio-quail3-canary4-mac_arm.dmg) (1.5 GB)
+
+Mac（Intel）：[android-studio-quail3-canary4-mac.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.3.4/android-studio-quail3-canary4-mac.dmg) (1.5 GB)
+
+Windows（64 位）：[android-studio-quail3-canary4-windows.exe](https://edgedl.me.gvt1.com/android/studio/install/2026.1.3.4/android-studio-quail3-canary4-windows.exe) (1.5 GB)
+
+SHA-256 校验和
+
+7bd85eb8b7f4fb1beeb2dbf7c9603ca9418bf7ec287a4671b19e28ec016eb444 android-studio-quail3-canary4-cros.deb
+
+5490aa419211156d5613c94f6275d793f21f383d8d4eb9191be3056e32d83394 android-studio-quail3-canary4-mac\_arm.dmg
+
+17cdf942b719475822919ad888abd0371b8b6543b6021572b86d6800c7d20907 android-studio-quail3-canary4-mac.dmg
+
+273b02158d03849493bf880363fbdaf7e6d13abdfd1d663a6348b0eedae905a8 android-studio-quail3-canary4-windows.exe
+
+ZIP 文件
+
+Linux：[android-studio-quail3-canary4-linux.tar.gz](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.3.4/android-studio-quail3-canary4-linux.tar.gz) (1.6 GB)
+
+Windows（64 位）：[android-studio-quail3-canary4-windows.zip](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.3.4/android-studio-quail3-canary4-windows.zip) (1.5 GB)
+
+SHA-256 校验和
+
+1ff11c7aa774eb07edad0a995efe4b5779aa5207618b8b1598d9ac185ee1e223 android-studio-quail3-canary4-linux.tar.gz
+
+adfacdd74249cb9019f9f54dfbc463763b70148c4934ac809bc9257645786a63 android-studio-quail3-canary4-windows.zip
+
+Android Studio Quail 2 | 2026.1.2 RC 2 2026 年 7 月 8 日
+
+安装程序
+
+ChromeOS：[android-studio-quail2-rc2-cros.deb](https://edgedl.me.gvt1.com/android/studio/install/2026.1.2.9/android-studio-quail2-rc2-cros.deb)（1.2 GB）
+
+Mac（Apple Silicon）：[android-studio-quail2-rc2-mac\_arm.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.2.9/android-studio-quail2-rc2-mac_arm.dmg)（1.5 GB）
+
+Mac（Intel）：[android-studio-quail2-rc2-mac.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.2.9/android-studio-quail2-rc2-mac.dmg)（1.5 GB）
+
+Windows（64 位）：[android-studio-quail2-rc2-windows.exe](https://edgedl.me.gvt1.com/android/studio/install/2026.1.2.9/android-studio-quail2-rc2-windows.exe)（1.5 GB）
+
+SHA-256 校验和
+
+ddd5dee2c161efb66b6bcd5fe8e9975198b75f65050644742f238cae109e9105 android-studio-quail2-rc2-cros.deb
+
+c7d85cddd981de7f0fbaf7a0f0877fbf57cb0a638b57312e2e5f0f4768226aca android-studio-quail2-rc2-mac\_arm.dmg
+
+214d8655ed151803f37fc7aa82c255cdacfdf62e2d58a4cc7b40592c9f297c64 android-studio-quail2-rc2-mac.dmg
+
+1b21a869f3c8901b6b1981a4e980491707770a18a1ad499ce5e81180630d1bc2 android-studio-quail2-rc2-windows.exe
+
+ZIP 文件
+
+Linux：[android-studio-quail2-rc2-linux.tar.gz](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.2.9/android-studio-quail2-rc2-linux.tar.gz)（1.5 GB）
+
+Windows（64 位）：[android-studio-quail2-rc2-windows.zip](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.2.9/android-studio-quail2-rc2-windows.zip)（1.5 GB）
+
+SHA-256 校验和
+
+4333616c4f11cafd1519063f57384986a792d1ceabad4a605d754ea0157e3471 android-studio-quail2-rc2-linux.tar.gz
+
+b90c874172b93e2d08249fa52c98d4e1b74c48ef4c5e6a734cff9665bebed520 android-studio-quail2-rc2-windows.zip
+
+Android Studio Quail 3 | 2026.1.3 Canary 3 2026 年 7 月 2 日
+
+安装程序
+
+ChromeOS：[android-studio-quail3-canary3-cros.deb](https://edgedl.me.gvt1.com/android/studio/install/2026.1.3.3/android-studio-quail3-canary3-cros.deb)（1.2 GB）
+
+Mac（Apple Silicon）：[android-studio-quail3-canary3-mac\_arm.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.3.3/android-studio-quail3-canary3-mac_arm.dmg)（1.5 GB）
+
+Mac（Intel）：[android-studio-quail3-canary3-mac.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.3.3/android-studio-quail3-canary3-mac.dmg)（1.5 GB）
+
+Windows（64 位）：[android-studio-quail3-canary3-windows.exe](https://edgedl.me.gvt1.com/android/studio/install/2026.1.3.3/android-studio-quail3-canary3-windows.exe)（1.5 GB）
+
+SHA-256 校验和
+
+49fac15590e7dcccc6217e81c5011cb1581bc9328a7a3ab31bc0a45b5d90d2a5 android-studio-quail3-canary3-cros.deb
+
+f40a311329770e47d4d1ad5edfdfcaafb107a13b1530deaa2c5b6adad691ea5c android-studio-quail3-canary3-mac\_arm.dmg
+
+dc81dc7b6ae0bfd0186fd429fe48f43968c34874da967e02bcbfec3b71a07cbc android-studio-quail3-canary3-mac.dmg
+
+11f69c874fc0cf2ea8529ad28aecef7fa329af34958c4f9a40799106a818d7d1 android-studio-quail3-canary3-windows.exe
+
+ZIP 文件
+
+Linux：[android-studio-quail3-canary3-linux.tar.gz](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.3.3/android-studio-quail3-canary3-linux.tar.gz)（1.6 GB）
+
+Windows（64 位）：[android-studio-quail3-canary3-windows.zip](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.3.3/android-studio-quail3-canary3-windows.zip)（1.5 GB）
+
+SHA-256 校验和
+
+0bcadb47ed2218dcecafb1ed88d885c3ef991bdfedd34fdcd4ecebf6782cb0fb android-studio-quail3-canary3-linux.tar.gz
+
+c5050a7424ad7d7639258e82a45c9dd59af2f2c772bc7bcfbbb945b199b561e1 android-studio-quail3-canary3-windows.zip
+
+Android Studio Quail 3 | 2026.1.3 Canary 2 2026 年 6 月 26 日
+
+安装程序
+
+ChromeOS：[android-studio-quail3-canary2-cros.deb](https://edgedl.me.gvt1.com/android/studio/install/2026.1.3.2/android-studio-quail3-canary2-cros.deb)（1.2 GB）
+
+Mac（Apple Silicon）：[android-studio-quail3-canary2-mac\_arm.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.3.2/android-studio-quail3-canary2-mac_arm.dmg)（1.5 GB）
+
+Mac（Intel）：[android-studio-quail3-canary2-mac.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.3.2/android-studio-quail3-canary2-mac.dmg)（1.5 GB）
+
+Windows（64 位）：[android-studio-quail3-canary2-windows.exe](https://edgedl.me.gvt1.com/android/studio/install/2026.1.3.2/android-studio-quail3-canary2-windows.exe)（1.5 GB）
+
+SHA-256 校验和
+
+03b506be9c0162f926fd1db833c14e16f980d0e8c3d25dc9707762953928ccdb android-studio-quail3-canary2-cros.deb
+
+d7315e9033c71f91c74dc2bf4ed37250a66a92781b36b1a17c9da45e901868a2 android-studio-quail3-canary2-mac\_arm.dmg
+
+c657fd459f08bba9b811d532dc12a82a43fa96df7384713c659123988afd673f android-studio-quail3-canary2-mac.dmg
+
+d0b00eca740de684a9b0d6f7a8a827111e07ed524e2018c96785b997b33dc7e0 android-studio-quail3-canary2-windows.exe
+
+ZIP 文件
+
+Linux：[android-studio-quail3-canary2-linux.tar.gz](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.3.2/android-studio-quail3-canary2-linux.tar.gz)（1.5 GB）
+
+Windows（64 位）：[android-studio-quail3-canary2-windows.zip](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.3.2/android-studio-quail3-canary2-windows.zip)（1.5 GB）
+
+SHA-256 校验和
+
+6c608b6e5f9bf6f4e69749bebb10415a0f7d8a404015f9395fe52747e8f63a0c android-studio-quail3-canary2-linux.tar.gz
+
+8651fab06b94c9c076bc07c17abb0fbc891be70f6f219d2a0775bd3a6b6fc202 android-studio-quail3-canary2-windows.zip
+
+Android Studio Quail 3 | 2026.1.3 Canary 1 2026 年 6 月 18 日
+
+安装程序
+
+ChromeOS：[android-studio-quail3-canary1-cros.deb](https://edgedl.me.gvt1.com/android/studio/install/2026.1.3.1/android-studio-quail3-canary1-cros.deb)（1.2 GB）
+
+Mac（Apple Silicon）：[android-studio-quail3-canary1-mac\_arm.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.3.1/android-studio-quail3-canary1-mac_arm.dmg)（1.5 GB）
+
+Mac（Intel）：[android-studio-quail3-canary1-mac.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.3.1/android-studio-quail3-canary1-mac.dmg)（1.5 GB）
+
+Windows（64 位）：[android-studio-quail3-canary1-windows.exe](https://edgedl.me.gvt1.com/android/studio/install/2026.1.3.1/android-studio-quail3-canary1-windows.exe)（1.5 GB）
+
+SHA-256 校验和
+
+487766a5708af93689e53b7504a84703330dc5867f9079915538db699e669a5a android-studio-quail3-canary1-cros.deb
+
+7dba83479b9dd52b641a15c841732bf422114384a402911f393f9558c4ba0ff5 android-studio-quail3-canary1-mac\_arm.dmg
+
+4fce649113d44da1cb2ac1f75cdf5772ecefbcfec5e4da2076e163427aa2d2d3 android-studio-quail3-canary1-mac.dmg
+
+67a85b814b6028659542f9302c60df6a940c014b280748e380fa41cde1b0db25 android-studio-quail3-canary1-windows.exe
+
+ZIP 文件
+
+Linux：[android-studio-quail3-canary1-linux.tar.gz](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.3.1/android-studio-quail3-canary1-linux.tar.gz)（1.6 GB）
+
+Windows（64 位）：[android-studio-quail3-canary1-windows.zip](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.3.1/android-studio-quail3-canary1-windows.zip)（1.5 GB）
+
+SHA-256 校验和
+
+0fb6922e46ae115074e7fbe15b19fbb1f2b60a8033b2f6b19e4155880b9522c7 android-studio-quail3-canary1-linux.tar.gz
+
+70fdc07f5c81209a90c9ad1622976c121d156c40747e40e5cc649c7358e96086 android-studio-quail3-canary1-windows.zip
+
+Android Studio Quail 2 | 2026.1.2 RC 1 2026 年 6 月 17 日
+
+安装程序
+
+ChromeOS：[android-studio-quail2-rc1-cros.deb](https://edgedl.me.gvt1.com/android/studio/install/2026.1.2.8/android-studio-quail2-rc1-cros.deb)（1.2 GB）
+
+Mac（Apple Silicon）：[android-studio-quail2-rc1-mac\_arm.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.2.8/android-studio-quail2-rc1-mac_arm.dmg)（1.5 GB）
+
+Mac（Intel）：[android-studio-quail2-rc1-mac.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.2.8/android-studio-quail2-rc1-mac.dmg)（1.5 GB）
+
+Windows（64 位）：[android-studio-quail2-rc1-windows.exe](https://edgedl.me.gvt1.com/android/studio/install/2026.1.2.8/android-studio-quail2-rc1-windows.exe)（1.5 GB）
+
+SHA-256 校验和
+
+f73fb74fa9f7e30cc63255f9eff2e8d28a85e5ce5ab44ac6dedb8be6c87ec588 android-studio-quail2-rc1-cros.deb
+
+2d043d37d6c054fc49cc5631789a236b909a26ad6c7723fb2ec2064212d514fe android-studio-quail2-rc1-mac\_arm.dmg
+
+5abbceff92f723db8cc95e30a31158324818375836871cb980a6c1ee3785aa05 android-studio-quail2-rc1-mac.dmg
+
+030cbbdfed33242c77d4d80f031302d9aefe3dcc8033f751d5b5267eb5bb64e8 android-studio-quail2-rc1-windows.exe
+
+ZIP 文件
+
+Linux：[android-studio-quail2-rc1-linux.tar.gz](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.2.8/android-studio-quail2-rc1-linux.tar.gz)（1.5 GB）
+
+Windows（64 位）：[android-studio-quail2-rc1-windows.zip](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.2.8/android-studio-quail2-rc1-windows.zip)（1.5 GB）
+
+SHA-256 校验和
+
+b53303df08048345bb5ac25bfe159731dcea3430f4e2e27b8a60338161bd2667 android-studio-quail2-rc1-linux.tar.gz
+
+af3475b918bd5d77e8bc515be9842fc7279ed43374aee60a897496caf7723440 android-studio-quail2-rc1-windows.zip
+
+Android Studio Quail 1 | 2026.1.1 补丁 2 2026 年 6 月 16 日
+
+安装程序
+
+ChromeOS：[android-studio-quail1-patch2-cros.deb](https://edgedl.me.gvt1.com/android/studio/install/2026.1.1.10/android-studio-quail1-patch2-cros.deb)（1.2 GB）
+
+Mac（Apple Silicon）：[android-studio-quail1-patch2-mac\_arm.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.1.10/android-studio-quail1-patch2-mac_arm.dmg)（1.5 GB）
+
+Mac（Intel）：[android-studio-quail1-patch2-mac.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.1.10/android-studio-quail1-patch2-mac.dmg)（1.5 GB）
+
+Windows（64 位）：[android-studio-quail1-patch2-windows.exe](https://edgedl.me.gvt1.com/android/studio/install/2026.1.1.10/android-studio-quail1-patch2-windows.exe)（1.5 GB）
+
+SHA-256 校验和
+
+eff149a968cece47420f376ab131e20bfc9a9fae4622c36a34b71aab01d7dce3 android-studio-quail1-patch2-cros.deb
+
+69a13f8b7430f91919ff8b958c941d69953c13095e29fafa51e77d32417521a2 android-studio-quail1-patch2-mac\_arm.dmg
+
+06abf1fe333e1027551f3d1fbfb2e7288e8558f9016d8b8fe1a509b3ad127b87 android-studio-quail1-patch2-mac.dmg
+
+7c515f28619d90938bacef9562625719a5c1a206a01b8eaab99d9228c53330a0 android-studio-quail1-patch2-windows.exe
+
+ZIP 文件
+
+Linux：[android-studio-quail1-patch2-linux.tar.gz](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.1.10/android-studio-quail1-patch2-linux.tar.gz)（1.5 GB）
+
+Windows（64 位）：[android-studio-quail1-patch2-windows.zip](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.1.10/android-studio-quail1-patch2-windows.zip)（1.5 GB）
+
+SHA-256 校验和
+
+fbd3f116d12caed724ea8da0d2cdae7e791170f79f2aa11273ea0f2d22a224dc android-studio-quail1-patch2-linux.tar.gz
+
+9c186428dfe24ca41e170b81f3379d25cb9a456f7e1f4ff54b3ec378e7d88991 android-studio-quail1-patch2-windows.zip
+
+Android Studio Quail 2 | 2026.1.2 Canary 7 2026 年 6 月 11 日
+
+安装程序
+
+ChromeOS：[android-studio-quail2-canary7-cros.deb](https://edgedl.me.gvt1.com/android/studio/install/2026.1.2.7/android-studio-quail2-canary7-cros.deb)（1.2 GB）
+
+Mac（Apple Silicon）：[android-studio-quail2-canary7-mac\_arm.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.2.7/android-studio-quail2-canary7-mac_arm.dmg)（1.5 GB）
+
+Mac（Intel）：[android-studio-quail2-canary7-mac.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.2.7/android-studio-quail2-canary7-mac.dmg)（1.5 GB）
+
+Windows（64 位）：[android-studio-quail2-canary7-windows.exe](https://edgedl.me.gvt1.com/android/studio/install/2026.1.2.7/android-studio-quail2-canary7-windows.exe)（1.5 GB）
+
+SHA-256 校验和
+
+c8d9e216c1090cec4cf3397b318138a538eb043348d163bd96778c527a61c8e0 android-studio-quail2-canary7-cros.deb
+
+92e4857f05603b8e23048afdef99246ef9d6851bae81f2e5f99dca97a08772e6 android-studio-quail2-canary7-mac\_arm.dmg
+
+5c6806c6e14d8568b749afd19d68bbe63e5c7ff870ff5ea9b2d91d952339e698 android-studio-quail2-canary7-mac.dmg
+
+ccea7731b852c00a07e683dcb51938b88c6d8ed3012e8fd54fc4ff7367716a4f android-studio-quail2-canary7-windows.exe
+
+ZIP 文件
+
+Linux：[android-studio-quail2-canary7-linux.tar.gz](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.2.7/android-studio-quail2-canary7-linux.tar.gz)（1.5 GB）
+
+Windows（64 位）：[android-studio-quail2-canary7-windows.zip](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.2.7/android-studio-quail2-canary7-windows.zip)（1.5 GB）
+
+SHA-256 校验和
+
+2c7b337c0b4ce592cd6d3646d22b1bf9a516deec29fb36affe28074f81c37843 android-studio-quail2-canary7-linux.tar.gz
+
+a3d63fce5d08858c89849018c62e5f4c508e70766d4d1105bc0899d7b62a0400 android-studio-quail2-canary7-windows.zip
+
+Android Studio Quail 1 | 2026.1.1 Patch 1 2026 年 6 月 11 日
+
+安装程序
+
+ChromeOS：[android-studio-quail1-patch1-cros.deb](https://edgedl.me.gvt1.com/android/studio/install/2026.1.1.9/android-studio-quail1-patch1-cros.deb) (1.2 GB)
+
+Mac（Apple Silicon）：[android-studio-quail1-patch1-mac\_arm.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.1.9/android-studio-quail1-patch1-mac_arm.dmg) (1.5 GB)
+
+Mac（Intel）：[android-studio-quail1-patch1-mac.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.1.9/android-studio-quail1-patch1-mac.dmg) (1.5 GB)
+
+Windows（64 位）：[android-studio-quail1-patch1-windows.exe](https://edgedl.me.gvt1.com/android/studio/install/2026.1.1.9/android-studio-quail1-patch1-windows.exe) (1.5 GB)
+
+SHA-256 校验和
+
+fb44da8ae02f62d7fa22447ad927aea9b6dc2b366121169ca71bb17942abce71 android-studio-quail1-patch1-cros.deb
+
+07145348f0b7bce6336eb362addd773093a84c40a4780f436beb6795a48b1270 android-studio-quail1-patch1-mac\_arm.dmg
+
+6f24e9d76456a3d5b5da42c6693bf2418e9ba4eb005c2b635ccee4e8684b4f67 android-studio-quail1-patch1-mac.dmg
+
+d738b85423c79f3320032907bf7a9684509cf119803d9705b15b93970473a58f android-studio-quail1-patch1-windows.exe
+
+ZIP 文件
+
+Linux：[android-studio-quail1-patch1-linux.tar.gz](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.1.9/android-studio-quail1-patch1-linux.tar.gz) (1.5 GB)
+
+Windows（64 位）：[android-studio-quail1-patch1-windows.zip](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.1.9/android-studio-quail1-patch1-windows.zip) (1.5 GB)
+
+SHA-256 校验和
+
+2e29b43783b7ffd62f62389831fc3f260df1b8f673e5125caf588e75112e8eb5 android-studio-quail1-patch1-linux.tar.gz
+
+6f015829ca3c27333c12f32e888ab1e72543deb88d0af51bb6c4c842d65184bb android-studio-quail1-patch1-windows.zip
+
+Android Studio Quail 2 | 2026.1.2 Canary 6 2026 年 6 月 7 日
+
+安装程序
+
+ChromeOS：[android-studio-quail2-canary6-cros.deb](https://edgedl.me.gvt1.com/android/studio/install/2026.1.2.6/android-studio-quail2-canary6-cros.deb)（1.2 GB）
+
+Mac（Apple Silicon）：[android-studio-quail2-canary6-mac\_arm.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.2.6/android-studio-quail2-canary6-mac_arm.dmg)（1.5 GB）
+
+Mac（Intel）：[android-studio-quail2-canary6-mac.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.2.6/android-studio-quail2-canary6-mac.dmg)（1.5 GB）
+
+Windows（64 位）：[android-studio-quail2-canary6-windows.exe](https://edgedl.me.gvt1.com/android/studio/install/2026.1.2.6/android-studio-quail2-canary6-windows.exe)（1.5 GB）
+
+SHA-256 校验和
+
+277f37bdb3fe804276da4bfcb9a5ff64cef7a5135e4a9d81286bf0415b8db02e android-studio-quail2-canary6-cros.deb
+
+1697fd0ce81c32507a4e534529e6bdeaeaf6ad58f507f34160da36cde1b6c2f8 android-studio-quail2-canary6-mac\_arm.dmg
+
+9381666a167643439b47b0fac904277209e19c22975aa8a183cb3591c7e8fbfa android-studio-quail2-canary6-mac.dmg
+
+5b4d1285d861f839f96957269fa8cc87db09edf8c047f09772852aef47cdfc7f android-studio-quail2-canary6-windows.exe
+
+ZIP 文件
+
+Linux：[android-studio-quail2-canary6-linux.tar.gz](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.2.6/android-studio-quail2-canary6-linux.tar.gz)（1.5 GB）
+
+Windows（64 位）：[android-studio-quail2-canary6-windows.zip](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.2.6/android-studio-quail2-canary6-windows.zip)（1.5 GB）
+
+SHA-256 校验和
+
+99760eecfb70b389465d126c760685917f0aa1be6640526018cdf135e3011630 android-studio-quail2-canary6-linux.tar.gz
+
+974efcb216f47e681e58654dcbc7f6307c88b886bcfe0b6af9004a8e13ccce6f android-studio-quail2-canary6-windows.zip
+
+Android Studio Quail 2 | 2026.1.2 Canary 5 2026 年 6 月 4 日
+
+安装程序
+
+ChromeOS：[android-studio-quail2-canary5-cros.deb](https://edgedl.me.gvt1.com/android/studio/install/2026.1.2.5/android-studio-quail2-canary5-cros.deb)（1.2 GB）
+
+Mac（Apple Silicon）：[android-studio-quail2-canary5-mac\_arm.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.2.5/android-studio-quail2-canary5-mac_arm.dmg)（1.5 GB）
+
+Mac（Intel）：[android-studio-quail2-canary5-mac.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.2.5/android-studio-quail2-canary5-mac.dmg)（1.5 GB）
+
+Windows（64 位）：[android-studio-quail2-canary5-windows.exe](https://edgedl.me.gvt1.com/android/studio/install/2026.1.2.5/android-studio-quail2-canary5-windows.exe)（1.5 GB）
+
+SHA-256 校验和
+
+6bc3f4aa2a6e9bd82ca321eeb15074c1e1870421f7eb13df7ef306711fd08d27 android-studio-quail2-canary5-cros.deb
+
+010ff926042ca6528e0ca49f19ddabc779f584ce41fca8d1697b992a2e9b2e4c android-studio-quail2-canary5-mac\_arm.dmg
+
+95b42a1bc48fabd883ab1799c977ad1b113910b482b6190392a25c2f5d8d1f4e android-studio-quail2-canary5-mac.dmg
+
+833a3f321b350c1649f6475e1b11a72a8a134e94db880b220308a03caf904f44 android-studio-quail2-canary5-windows.exe
+
+ZIP 文件
+
+Linux：[android-studio-quail2-canary5-linux.tar.gz](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.2.5/android-studio-quail2-canary5-linux.tar.gz)（1.5 GB）
+
+Windows（64 位）：[android-studio-quail2-canary5-windows.zip](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.2.5/android-studio-quail2-canary5-windows.zip)（1.5 GB）
+
+SHA-256 校验和
+
+1e7abad859443ab38b3b9b00df7417f75a77f4a3ec1d4946104b773a1dd89ac4 android-studio-quail2-canary5-linux.tar.gz
+
+3afc7cb4e6529fb2a8183d9dbf366d99b84504bd13d9e02bcf67ef72f39af304 android-studio-quail2-canary5-windows.zip
+
+Android Studio Quail 1 | 2026.1.1 2026 年 6 月 2 日
+
+安装程序
+
+ChromeOS：[android-studio-quail1-cros.deb](https://edgedl.me.gvt1.com/android/studio/install/2026.1.1.8/android-studio-quail1-cros.deb)（1.2 GB）
+
+Mac（Apple Silicon）：[android-studio-quail1-mac\_arm.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.1.8/android-studio-quail1-mac_arm.dmg)（1.5 GB）
+
+Mac（Intel）：[android-studio-quail1-mac.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.1.8/android-studio-quail1-mac.dmg)（1.5 GB）
+
+Windows（64 位）：[android-studio-quail1-windows.exe](https://edgedl.me.gvt1.com/android/studio/install/2026.1.1.8/android-studio-quail1-windows.exe)（1.5 GB）
+
+SHA-256 校验和
+
+036ecb14f7243f7df4942c3ccdd47c920d09bc7e546ed0ececf0f2f19b5d4c4a android-studio-quail1-cros.deb
+
+85e17dfddf23b42d4ad9f8749d566657e752ec2f2432c3d49f4d83a0fa1fdf48 android-studio-quail1-mac\_arm.dmg
+
+9863cd78939a79f68d76ccf82a6050e5f66b018e5fbcb35b42acc270ad246549 android-studio-quail1-mac.dmg
+
+df998400b6ad20a3e172ca3d3d1420230d2ff6e37c9bbaa830bb3a146ae2b6cf android-studio-quail1-windows.exe
+
+ZIP 文件
+
+Linux：[android-studio-quail1-linux.tar.gz](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.1.8/android-studio-quail1-linux.tar.gz)（1.5 GB）
+
+Windows（64 位）：[android-studio-quail1-windows.zip](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.1.8/android-studio-quail1-windows.zip)（1.5 GB）
+
+SHA-256 校验和
+
+0c1fa4ba3cfabd07e48a90e00a5fa2ea2a82cd5870833dada5b0290c817d83d3 android-studio-quail1-linux.tar.gz
+
+7a902e8447c24bfa2cf1010173811a0568b7be120b6d14614deaf4285b80ec8c android-studio-quail1-windows.zip
+
+Android Studio Quail 2 | 2026.1.2 Canary 4 2026 年 5 月 29 日
+
+安装程序
+
+ChromeOS：[android-studio-quail2-canary4-cros.deb](https://edgedl.me.gvt1.com/android/studio/install/2026.1.2.4/android-studio-quail2-canary4-cros.deb) (1.2 GB)
+
+Mac（Apple Silicon）：[android-studio-quail2-canary4-mac\_arm.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.2.4/android-studio-quail2-canary4-mac_arm.dmg) (1.5 GB)
+
+Mac（Intel）：[android-studio-quail2-canary4-mac.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.2.4/android-studio-quail2-canary4-mac.dmg) (1.5 GB)
+
+Windows（64 位）：[android-studio-quail2-canary4-windows.exe](https://edgedl.me.gvt1.com/android/studio/install/2026.1.2.4/android-studio-quail2-canary4-windows.exe) (1.5 GB)
+
+SHA-256 校验和
+
+15581e5c55f81fad99e98b57c6490d5df2d9462e914360e54ac798697b2d3e80 android-studio-quail2-canary4-cros.deb
+
+35c51288115cf42e65639d90585e7a570d7593cb50bb7852fa5cbb250b0d5735 android-studio-quail2-canary4-mac\_arm.dmg
+
+34f1aae1ecfe20a26e54e7d3febd89cb71bb60e4a5be43e29ad1c07e7ae45429 android-studio-quail2-canary4-mac.dmg
+
+6f82141575959e2a5ed2ecf0175fb8b46dbd31f3c3d66759300dff9bf29db670 android-studio-quail2-canary4-windows.exe
+
+ZIP 文件
+
+Linux：[android-studio-quail2-canary4-linux.tar.gz](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.2.4/android-studio-quail2-canary4-linux.tar.gz) (1.5 GB)
+
+Windows（64 位）：[android-studio-quail2-canary4-windows.zip](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.2.4/android-studio-quail2-canary4-windows.zip) (1.5 GB)
+
+SHA-256 校验和
+
+7e72581d93f2f5b39927695e1b6f8caf92461f91cc7361de31e6061c1531257a android-studio-quail2-canary4-linux.tar.gz
+
+c679ae1a89eba74db3f8765a16567a8550df74d527f7b71e1754a516f87c9cdd android-studio-quail2-canary4-windows.zip
+
+Android Studio Quail 2 | 2026.1.2 Canary 3 2026 年 5 月 28 日
+
+安装程序
+
+ChromeOS：[android-studio-quail2-canary3-cros.deb](https://edgedl.me.gvt1.com/android/studio/install/2026.1.2.3/android-studio-quail2-canary3-cros.deb)（1.2 GB）
+
+Mac（Apple Silicon）：[android-studio-quail2-canary3-mac\_arm.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.2.3/android-studio-quail2-canary3-mac_arm.dmg)（1.5 GB）
+
+Mac（Intel）：[android-studio-quail2-canary3-mac.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.2.3/android-studio-quail2-canary3-mac.dmg)（1.5 GB）
+
+Windows（64 位）：[android-studio-quail2-canary3-windows.exe](https://edgedl.me.gvt1.com/android/studio/install/2026.1.2.3/android-studio-quail2-canary3-windows.exe)（1.5 GB）
+
+SHA-256 校验和
+
+ea4cd1dc9fb5cec8fce59cfbc65011e067a7fb779060a9479f1d95940c32cbb5 android-studio-quail2-canary3-cros.deb
+
+dcc42de576c3d050fa97596c1af50ed47122b2d8c4dd43fa13d8b6216906e2c1 android-studio-quail2-canary3-mac\_arm.dmg
+
+bafb4a3a00589c7bf70e5e527d631c6ad5f60cc52e8ad9221d4967dfd8348ed5 android-studio-quail2-canary3-mac.dmg
+
+5576c5b0e0dd43298d33536f29b9ae33d1ce167b33c48a420854477fa0b73fee android-studio-quail2-canary3-windows.exe
+
+ZIP 文件
+
+Linux：[android-studio-quail2-canary3-linux.tar.gz](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.2.3/android-studio-quail2-canary3-linux.tar.gz)（1.5 GB）
+
+Windows（64 位）：[android-studio-quail2-canary3-windows.zip](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.2.3/android-studio-quail2-canary3-windows.zip)（1.5 GB）
+
+SHA-256 校验和
+
+3b6a33915141db1e9ee99e5e5e4eb874e880c1f62761d0aabdff10a242acfe2c android-studio-quail2-canary3-linux.tar.gz
+
+4489c27f67874b64c39da902af9d0813775a6b3c2c6e7bc93e0cce3e0ba21a8d android-studio-quail2-canary3-windows.zip
+
+Android Studio Quail 1 | 2026.1.1 RC 2 2026 年 5 月 26 日
+
+安装程序
+
+ChromeOS：[android-studio-quail1-rc2-cros.deb](https://edgedl.me.gvt1.com/android/studio/install/2026.1.1.7/android-studio-quail1-rc2-cros.deb)（1.2 GB）
+
+Mac（Apple Silicon）：[android-studio-quail1-rc2-mac\_arm.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.1.7/android-studio-quail1-rc2-mac_arm.dmg)（1.5 GB）
+
+Mac（Intel）：[android-studio-quail1-rc2-mac.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.1.7/android-studio-quail1-rc2-mac.dmg)（1.5 GB）
+
+Windows（64 位）：[android-studio-quail1-rc2-windows.exe](https://edgedl.me.gvt1.com/android/studio/install/2026.1.1.7/android-studio-quail1-rc2-windows.exe)（1.5 GB）
+
+SHA-256 校验和
+
+4d95a6e561c32e5612cb843694d4342bdb551436e93d22119436635dd31bb6d8 android-studio-quail1-rc2-cros.deb
+
+95174e39d835655cb15dc05bf4dc1a244f3f59d8e57480e09a9bf947439abb3a android-studio-quail1-rc2-mac\_arm.dmg
+
+207c453296c1be096d590c1ec83851517ff49ced5026150613e5a03b91f3af22 android-studio-quail1-rc2-mac.dmg
+
+1df5b04e135e571ef9cfae559f50dc5cbe5a4f1f63410f3dcc11b9968d529fba android-studio-quail1-rc2-windows.exe
+
+ZIP 文件
+
+Linux：[android-studio-quail1-rc2-linux.tar.gz](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.1.7/android-studio-quail1-rc2-linux.tar.gz)（1.5 GB）
+
+Windows（64 位）：[android-studio-quail1-rc2-windows.zip](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.1.7/android-studio-quail1-rc2-windows.zip)（1.5 GB）
+
+SHA-256 校验和
+
+4c1f613f29ef56ad5ac6fea8030f2e9fa5875476a464fbc40637cf0acf83c23d android-studio-quail1-rc2-linux.tar.gz
+
+bb116f9fe5e55bd1e62711d40ac7ea1004e544a50c571a6cc0cfd4a8a2ee0636 android-studio-quail1-rc2-windows.zip
+
+Android Studio Quail 2 | 2026.1.2 Canary 2 2026 年 5 月 21 日
+
+安装程序
+
+ChromeOS：[android-studio-quail2-canary2-cros.deb](https://edgedl.me.gvt1.com/android/studio/install/2026.1.2.2/android-studio-quail2-canary2-cros.deb)（1.2 GB）
+
+Mac（Apple Silicon）：[android-studio-quail2-canary2-mac\_arm.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.2.2/android-studio-quail2-canary2-mac_arm.dmg)（1.5 GB）
+
+Mac（Intel）：[android-studio-quail2-canary2-mac.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.2.2/android-studio-quail2-canary2-mac.dmg)（1.5 GB）
+
+Windows（64 位）：[android-studio-quail2-canary2-windows.exe](https://edgedl.me.gvt1.com/android/studio/install/2026.1.2.2/android-studio-quail2-canary2-windows.exe)（1.5 GB）
+
+SHA-256 校验和
+
+837aa622b7b3c46e5a873727a28eda2c26ae27b99f133dabe3789b56bf3f6278 android-studio-quail2-canary2-cros.deb
+
+3937b67c4de402e8093599ecb3bac659b28a885132c194756ac8d025300ab87d android-studio-quail2-canary2-mac\_arm.dmg
+
+b25942e313b65b5f226cb82db2bfcb9691ee476e56326da01fefd10025aa6a0b android-studio-quail2-canary2-mac.dmg
+
+66f5a43a6e106fae4310879cbe6900240494c8e1f42cd01e3c5ab2417b7589e3 android-studio-quail2-canary2-windows.exe
+
+ZIP 文件
+
+Linux：[android-studio-quail2-canary2-linux.tar.gz](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.2.2/android-studio-quail2-canary2-linux.tar.gz)（1.5 GB）
+
+Windows（64 位）：[android-studio-quail2-canary2-windows.zip](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.2.2/android-studio-quail2-canary2-windows.zip)（1.5 GB）
+
+SHA-256 校验和
+
+f85996ef6938f0617bd72cc276920097ffea8bac36e9083c819516e7f36e879f android-studio-quail2-canary2-linux.tar.gz
+
+eadae0cba862284712df898930cda052f02712faa5cbe0d29549ea7ddd08ad9b android-studio-quail2-canary2-windows.zip
+
+Android Studio Quail 2 | 2026.1.2 Canary 1 2026 年 5 月 19 日
+
+安装程序
+
+ChromeOS：[android-studio-quail2-canary1-cros.deb](https://edgedl.me.gvt1.com/android/studio/install/2026.1.2.1/android-studio-quail2-canary1-cros.deb) (1.2 GB)
+
+Mac（Apple Silicon）：[android-studio-quail2-canary1-mac\_arm.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.2.1/android-studio-quail2-canary1-mac_arm.dmg) (1.5 GB)
+
+Mac（Intel）：[android-studio-quail2-canary1-mac.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.2.1/android-studio-quail2-canary1-mac.dmg) (1.5 GB)
+
+Windows（64 位）：[android-studio-quail2-canary1-windows.exe](https://edgedl.me.gvt1.com/android/studio/install/2026.1.2.1/android-studio-quail2-canary1-windows.exe) (1.5 GB)
+
+SHA-256 校验和
+
+8fa08a8b186c44bd2cf995f8b24a6633a0b5ddd8e13bee4abddbc750374ed616 android-studio-quail2-canary1-cros.deb
+
+01c21cddf2c2fd611056bb335182ea2f7896b0aa3dfb7d353f944dca3ffa1ade android-studio-quail2-canary1-mac\_arm.dmg
+
+d25ef9897309439cc9574ab5f2e0f2b78ec8d39c0196c89e2f66089c063b5bb7 android-studio-quail2-canary1-mac.dmg
+
+a1fa9d07ee2d9b57bb6d2b54aba70ecd60ed14cbde4fbd9cf3118bb6609f9759 android-studio-quail2-canary1-windows.exe
+
+ZIP 文件
+
+Linux：[android-studio-quail2-canary1-linux.tar.gz](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.2.1/android-studio-quail2-canary1-linux.tar.gz) (1.5 GB)
+
+Windows（64 位）：[android-studio-quail2-canary1-windows.zip](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.2.1/android-studio-quail2-canary1-windows.zip) (1.5 GB)
+
+SHA-256 校验和
+
+5d158aedeb56502fa5b9f416434ea1606112ce3332debee42361d56a2bbbea69 android-studio-quail2-canary1-linux.tar.gz
+
+ba46459fd1a1f8be9adbef924b71505b8e565792d5c20cb7e0b334bcffaf16a1 android-studio-quail2-canary1-windows.zip
+
+Android Studio Quail 1 | 2026.1.1 RC 1 2026 年 5 月 19 日
+
+安装程序
+
+ChromeOS：[android-studio-quail1-rc1-cros.deb](https://edgedl.me.gvt1.com/android/studio/install/2026.1.1.6/android-studio-quail1-rc1-cros.deb)（1.2 GB）
+
+Mac（Apple Silicon）：[android-studio-quail1-rc1-mac\_arm.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.1.6/android-studio-quail1-rc1-mac_arm.dmg)（1.5 GB）
+
+Mac（Intel）：[android-studio-quail1-rc1-mac.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.1.6/android-studio-quail1-rc1-mac.dmg)（1.5 GB）
+
+Windows（64 位）：[android-studio-quail1-rc1-windows.exe](https://edgedl.me.gvt1.com/android/studio/install/2026.1.1.6/android-studio-quail1-rc1-windows.exe)（1.5 GB）
+
+SHA-256 校验和
+
+f6001046935ef2cfb34d9bf5b20b42bb0abcf07bdfe30d90fa6b642b9456dfe9 android-studio-quail1-rc1-cros.deb
+
+337ec035467e97413961c19ea6d47037e3b88cb245a30d3ba11505d565230585 android-studio-quail1-rc1-mac\_arm.dmg
+
+ad19ae78501c7f3458e3681de794deda0e93bbc67d22de696485920233237ba6 android-studio-quail1-rc1-mac.dmg
+
+e59b5ec9439ff871514dc215c05289aaf12a41234b1289ed82d9996597be51e4 android-studio-quail1-rc1-windows.exe
+
+ZIP 文件
+
+Linux：[android-studio-quail1-rc1-linux.tar.gz](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.1.6/android-studio-quail1-rc1-linux.tar.gz)（1.5 GB）
+
+Windows（64 位）：[android-studio-quail1-rc1-windows.zip](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.1.6/android-studio-quail1-rc1-windows.zip)（1.5 GB）
+
+SHA-256 校验和
+
+6fa3d58014d38c8826e81235ef544bed3e86243f40a674d618e4eabedef4dcf4 android-studio-quail1-rc1-linux.tar.gz
+
+9621fb5e3307f6cc5eabbeb3378c16a9f9049e10607aaf86ee2e021d75b43bea android-studio-quail1-rc1-windows.zip
+
+Android Studio Quail 1 | 2026.1.1 Canary 5 2026 年 5 月 14 日
+
+安装程序
+
+ChromeOS：[android-studio-quail1-canary5-cros.deb](https://edgedl.me.gvt1.com/android/studio/install/2026.1.1.5/android-studio-quail1-canary5-cros.deb) (1.2 GB)
+
+Mac（Apple Silicon）：[android-studio-quail1-canary5-mac\_arm.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.1.5/android-studio-quail1-canary5-mac_arm.dmg) (1.5 GB)
+
+Mac（Intel）：[android-studio-quail1-canary5-mac.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.1.5/android-studio-quail1-canary5-mac.dmg) (1.5 GB)
+
+Windows（64 位）：[android-studio-quail1-canary5-windows.exe](https://edgedl.me.gvt1.com/android/studio/install/2026.1.1.5/android-studio-quail1-canary5-windows.exe) (1.5 GB)
+
+SHA-256 校验和
+
+99b9dd9c83d00913ecc6a8fff2cf9b23f7ec5399ed28fc5acc797f628941f25c android-studio-quail1-canary5-cros.deb
+
+e81682fee02edfe87d5b635a4f8a9d25ea562f8d06e93b27a942e9afef29e5f1 android-studio-quail1-canary5-mac\_arm.dmg
+
+935017f3573bf797e823d445d612dd5c712693b321491efd1d963e7a04e23108 android-studio-quail1-canary5-mac.dmg
+
+e69801a64f441b52b987691b676bf52ef35f033a7f5225a88fe1ace5620b7b4e android-studio-quail1-canary5-windows.exe
+
+ZIP 文件
+
+Linux：[android-studio-quail1-canary5-linux.tar.gz](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.1.5/android-studio-quail1-canary5-linux.tar.gz) (1.5 GB)
+
+Windows（64 位）：[android-studio-quail1-canary5-windows.zip](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.1.5/android-studio-quail1-canary5-windows.zip) (1.5 GB)
+
+SHA-256 校验和
+
+938accd0cc93874c27a6c2bc9ba1ecd6749dc18a6a52243ecfba223ba867f584 android-studio-quail1-canary5-linux.tar.gz
+
+8cda5ca94a90801bd74a14d2ef02ea365d68c0e857a66c955fdedbeb0d63612b android-studio-quail1-canary5-windows.zip
+
+Android Studio Quail 1 | 2026.1.1 Canary 4 2026 年 5 月 7 日
+
+安装程序
+
+ChromeOS：[android-studio-quail1-canary4-cros.deb](https://edgedl.me.gvt1.com/android/studio/install/2026.1.1.4/android-studio-quail1-canary4-cros.deb)（1.2 GB）
+
+Mac（Apple Silicon）：[android-studio-quail1-canary4-mac\_arm.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.1.4/android-studio-quail1-canary4-mac_arm.dmg)（1.5 GB）
+
+Mac（Intel）：[android-studio-quail1-canary4-mac.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.1.4/android-studio-quail1-canary4-mac.dmg)（1.5 GB）
+
+Windows（64 位）：[android-studio-quail1-canary4-windows.exe](https://edgedl.me.gvt1.com/android/studio/install/2026.1.1.4/android-studio-quail1-canary4-windows.exe)（1.4 GB）
+
+SHA-256 校验和
+
+223a17aaeaa442e789044cd9c1684897ff99311bd88650c735265aa5462d3eef android-studio-quail1-canary4-cros.deb
+
+50a81b917a99c8d6be8e080d0ba753b4dbb6d537cf1ec61b9f769a460baa8d19 android-studio-quail1-canary4-mac\_arm.dmg
+
+c74aa6ce77db7afe4b632df91a83ce42e170397d2c8d87f7fa1c10076ce94c23 android-studio-quail1-canary4-mac.dmg
+
+3a09d38facbd87d2e91a2e0809c59bb74a2954ef8f1ecf3af4207151377f11bb android-studio-quail1-canary4-windows.exe
+
+ZIP 文件
+
+Linux：[android-studio-quail1-canary4-linux.tar.gz](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.1.4/android-studio-quail1-canary4-linux.tar.gz)（1.5 GB）
+
+Windows（64 位）：[android-studio-quail1-canary4-windows.zip](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.1.4/android-studio-quail1-canary4-windows.zip)（1.5 GB）
+
+SHA-256 校验和
+
+68a6f2470818e19d96f61177618eb874b2c5e7050622b76d1b2498ad5e7b94d4 android-studio-quail1-canary4-linux.tar.gz
+
+74f9de307f4888dfbc577dda94bfac7a9c6f36be8af632c9c14c0e70a5e056bb android-studio-quail1-canary4-windows.zip
+
+Android Studio Panda 4 | 2025.3.4 补丁 1 2026 年 5 月 5 日
+
+安装程序
+
+ChromeOS：[android-studio-panda4-patch1-cros.deb](https://edgedl.me.gvt1.com/android/studio/install/2025.3.4.7/android-studio-panda4-patch1-cros.deb)（1.2 GB）
+
+Mac（Apple Silicon）：[android-studio-panda4-patch1-mac\_arm.dmg](https://edgedl.me.gvt1.com/android/studio/install/2025.3.4.7/android-studio-panda4-patch1-mac_arm.dmg)（1.4 GB）
+
+Mac（Intel）：[android-studio-panda4-patch1-mac.dmg](https://edgedl.me.gvt1.com/android/studio/install/2025.3.4.7/android-studio-panda4-patch1-mac.dmg)（1.5 GB）
+
+Windows（64 位）：[android-studio-panda4-patch1-windows.exe](https://edgedl.me.gvt1.com/android/studio/install/2025.3.4.7/android-studio-panda4-patch1-windows.exe)（1.4 GB）
+
+SHA-256 校验和
+
+c7863f2a740bf420df683c9c391bccb0f53974cf9eb377c7ce0d9f5c452cc047 android-studio-panda4-patch1-cros.deb
+
+e06e2609eb51d0ce84c027ec7d7a9778b2e980febadf50195c2aaf1b45098e7e android-studio-panda4-patch1-mac\_arm.dmg
+
+09a72dab139985940d6bb42009f1c704bdffc1282a84193390dbbfb45ffc751c android-studio-panda4-patch1-mac.dmg
+
+d0dd178a3d92b4151fd895bb8e6937c0a722ae5b6ccadac5f88d24f213b44bf2 android-studio-panda4-patch1-windows.exe
+
+ZIP 文件
+
+Linux：[android-studio-panda4-patch1-linux.tar.gz](https://edgedl.me.gvt1.com/android/studio/ide-zips/2025.3.4.7/android-studio-panda4-patch1-linux.tar.gz)（1.5 GB）
+
+Windows（64 位）：[android-studio-panda4-patch1-windows.zip](https://edgedl.me.gvt1.com/android/studio/ide-zips/2025.3.4.7/android-studio-panda4-patch1-windows.zip)（1.4 GB）
+
+SHA-256 校验和
+
+aae8f332f124afd23ca495dc770915a456da7480c8f859e01535ad42fcb4ca06 android-studio-panda4-patch1-linux.tar.gz
+
+b37f2f33619c932f50d59f30592ea4f6ddd8d9fd95e3b3687c5525429316b28f android-studio-panda4-patch1-windows.zip
+
+Android Studio Quail 1 | 2026.1.1 Canary 3 2026 年 4 月 30 日
+
+安装程序
+
+ChromeOS：[android-studio-quail1-canary3-cros.deb](https://edgedl.me.gvt1.com/android/studio/install/2026.1.1.3/android-studio-quail1-canary3-cros.deb)（1.2 GB）
+
+Mac（Apple Silicon）：[android-studio-quail1-canary3-mac\_arm.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.1.3/android-studio-quail1-canary3-mac_arm.dmg)（1.5 GB）
+
+Mac（Intel）：[android-studio-quail1-canary3-mac.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.1.3/android-studio-quail1-canary3-mac.dmg)（1.5 GB）
+
+Windows（64 位）：[android-studio-quail1-canary3-windows.exe](https://edgedl.me.gvt1.com/android/studio/install/2026.1.1.3/android-studio-quail1-canary3-windows.exe)（1.4 GB）
+
+SHA-256 校验和
+
+df7af286259db046758802ea87c5e8e16b342a5522c3633068af63354b8ca467 android-studio-quail1-canary3-cros.deb
+
+bdf10235c60df765a431f667fa4287d696ba49b529cb9812c74067c7fb046ca9 android-studio-quail1-canary3-mac\_arm.dmg
+
+72a4afb07ed6804bfb0b0413040d800898331d43e6d8d82a13cfd42902e2607b android-studio-quail1-canary3-mac.dmg
+
+5cc997298488e286a82b4bf598c821769261ec1dd010be6af839434b69642972 android-studio-quail1-canary3-windows.exe
+
+ZIP 文件
+
+Linux：[android-studio-quail1-canary3-linux.tar.gz](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.1.3/android-studio-quail1-canary3-linux.tar.gz)（1.5 GB）
+
+Windows（64 位）：[android-studio-quail1-canary3-windows.zip](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.1.3/android-studio-quail1-canary3-windows.zip)（1.5 GB）
+
+SHA-256 校验和
+
+3ba5377427487231ccb2fa69766d9438b9f2fba0181656da306395c20ddb453c android-studio-quail1-canary3-linux.tar.gz
+
+0121bc8dbd9fd28b18005485307e5b940d1e0578f9976b0788e2649555b08f7c android-studio-quail1-canary3-windows.zip
+
+Android Studio Quail 1 | 2026.1.1 Canary 2 2026 年 4 月 24 日
+
+安装程序
+
+ChromeOS：[android-studio-quail1-canary2-cros.deb](https://edgedl.me.gvt1.com/android/studio/install/2026.1.1.2/android-studio-quail1-canary2-cros.deb)（1.2 GB）
+
+Mac（Apple Silicon）：[android-studio-quail1-canary2-mac\_arm.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.1.2/android-studio-quail1-canary2-mac_arm.dmg)（1.5 GB）
+
+Mac（Intel）：[android-studio-quail1-canary2-mac.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.1.2/android-studio-quail1-canary2-mac.dmg)（1.5 GB）
+
+Windows（64 位）：[android-studio-quail1-canary2-windows.exe](https://edgedl.me.gvt1.com/android/studio/install/2026.1.1.2/android-studio-quail1-canary2-windows.exe)（1.4 GB）
+
+SHA-256 校验和
+
+93106a2dbcc23a839e418d2e0d437d4ddf7aabc78f52671eed9080fd971441e3 android-studio-quail1-canary2-cros.deb
+
+5bb3649dd4f3fa449c942901ab1dd79b03721c088b742db3ad43a51a8393713d android-studio-quail1-canary2-mac\_arm.dmg
+
+769130201e0b54294dbfe45cf19943e3d3de6efc07e5dbb65dcc6fa5de59b7e3 android-studio-quail1-canary2-mac.dmg
+
+4799437e9f0a01b78ef9f2564b6bf0a4b22d65eb8278ff43c22477aca080904e android-studio-quail1-canary2-windows.exe
+
+ZIP 文件
+
+Linux：[android-studio-quail1-canary2-linux.tar.gz](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.1.2/android-studio-quail1-canary2-linux.tar.gz)（1.5 GB）
+
+Windows（64 位）：[android-studio-quail1-canary2-windows.zip](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.1.2/android-studio-quail1-canary2-windows.zip)（1.5 GB）
+
+SHA-256 校验和
+
+8dd6f1c8aed5e04248e6c0a4df5a28efb947eae5d33344239635205a7e419773 android-studio-quail1-canary2-linux.tar.gz
+
+19fb8eda8e17c6f829fd617dc5300b55320736e1aaa649697d79208193e36920 android-studio-quail1-canary2-windows.zip
+
+Android Studio Panda 4 | 2025.3.4 2026 年 4 月 21 日
+
+安装程序
+
+ChromeOS：[android-studio-panda4-cros.deb](https://edgedl.me.gvt1.com/android/studio/install/2025.3.4.6/android-studio-panda4-cros.deb)（1.2 GB）
+
+Mac（Apple Silicon）：[android-studio-panda4-mac\_arm.dmg](https://edgedl.me.gvt1.com/android/studio/install/2025.3.4.6/android-studio-panda4-mac_arm.dmg)（1.4 GB）
+
+Mac（Intel）：[android-studio-panda4-mac.dmg](https://edgedl.me.gvt1.com/android/studio/install/2025.3.4.6/android-studio-panda4-mac.dmg)（1.5 GB）
+
+Windows（64 位）：[android-studio-panda4-windows.exe](https://edgedl.me.gvt1.com/android/studio/install/2025.3.4.6/android-studio-panda4-windows.exe)（1.4 GB）
+
+SHA-256 校验和
+
+b5a110be136d88f5c3fdda2dcbb9812abf2a9d144468e8359de4577fd2b613da android-studio-panda4-cros.deb
+
+070d8065ef4eeb9561cbbb10674a2433376e91eb7646cb592ebe4f3d734b603a android-studio-panda4-mac\_arm.dmg
+
+5000f4119312cbd6e08e54df3ab8c2fa262248fafda179aff34211f8f5fe5ff9 android-studio-panda4-mac.dmg
+
+15be589523328cc4cbf23f71af273a6661838b3d50a4cc6d1495e43d2160a407 android-studio-panda4-windows.exe
+
+ZIP 文件
+
+Linux：[android-studio-panda4-linux.tar.gz](https://edgedl.me.gvt1.com/android/studio/ide-zips/2025.3.4.6/android-studio-panda4-linux.tar.gz)（1.5 GB）
+
+Windows（64 位）：[android-studio-panda4-windows.zip](https://edgedl.me.gvt1.com/android/studio/ide-zips/2025.3.4.6/android-studio-panda4-windows.zip)（1.4 GB）
+
+SHA-256 校验和
+
+32a7ff09acaa38b48d61c8882bee7e213022a8ba0d1f16c0073380facb509fd3 android-studio-panda4-linux.tar.gz
+
+62fe3f90a9b5d6825eea1734770271c052988237ed11bd69629c614cab837aa0 android-studio-panda4-windows.zip
+
+Android Studio Quail 1 | 2026.1.1 Canary 1 2026 年 4 月 16 日
+
+安装程序
+
+ChromeOS：[android-studio-quail1-canary1-cros.deb](https://edgedl.me.gvt1.com/android/studio/install/2026.1.1.1/android-studio-quail1-canary1-cros.deb)（1.2 GB）
+
+Mac（Apple Silicon）：[android-studio-quail1-canary1-mac\_arm.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.1.1/android-studio-quail1-canary1-mac_arm.dmg)（1.4 GB）
+
+Mac（Intel）：[android-studio-quail1-canary1-mac.dmg](https://edgedl.me.gvt1.com/android/studio/install/2026.1.1.1/android-studio-quail1-canary1-mac.dmg)（1.5 GB）
+
+Windows（64 位）：[android-studio-quail1-canary1-windows.exe](https://edgedl.me.gvt1.com/android/studio/install/2026.1.1.1/android-studio-quail1-canary1-windows.exe)（1.4 GB）
+
+SHA-256 校验和
+
+73c7e21083e547876fb5a98304f540e1fe0c51af3437575ad8768d1f4a34ef11 android-studio-quail1-canary1-cros.deb
+
+55b6a009383ebffa56dc95ec05762a67a0350b10eecac0e54cb77d22387f947c android-studio-quail1-canary1-mac\_arm.dmg
+
+3b77e4802dc5f56238a49e5cc7f733158b313ec502143c83aa20a2419b32cf6a android-studio-quail1-canary1-mac.dmg
+
+5c6d69bda5630f6fcdd6e69cfe897a0f1ddc4084a125e50fa6cf1a816a5def8f android-studio-quail1-canary1-windows.exe
+
+ZIP 文件
+
+Linux：[android-studio-quail1-canary1-linux.tar.gz](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.1.1/android-studio-quail1-canary1-linux.tar.gz)（1.5 GB）
+
+Windows（64 位）：[android-studio-quail1-canary1-windows.zip](https://edgedl.me.gvt1.com/android/studio/ide-zips/2026.1.1.1/android-studio-quail1-canary1-windows.zip)（1.4 GB）
+
+SHA-256 校验和
+
+36bed5e81e2c119adcc2431d2a87af2c49322076b0c54c7f7a33749c12f8296d android-studio-quail1-canary1-linux.tar.gz
+
+edc570f267f353888c198b65bc9258bc0249974fc8e006c652a4f49c55fc93e3 android-studio-quail1-canary1-windows.zip
+
+Android Studio Panda 4 | 2025.3.4 RC 1 2026 年 4 月 13 日
+
+安装程序
+
+ChromeOS：[android-studio-panda4-rc1-cros.deb](https://edgedl.me.gvt1.com/android/studio/install/2025.3.4.5/android-studio-panda4-rc1-cros.deb)（1.2 GB）
+
+Mac（Apple Silicon）：[android-studio-panda4-rc1-mac\_arm.dmg](https://edgedl.me.gvt1.com/android/studio/install/2025.3.4.5/android-studio-panda4-rc1-mac_arm.dmg)（1.4 GB）
+
+Mac（Intel）：[android-studio-panda4-rc1-mac.dmg](https://edgedl.me.gvt1.com/android/studio/install/2025.3.4.5/android-studio-panda4-rc1-mac.dmg)（1.5 GB）
+
+Windows（64 位）：[android-studio-panda4-rc1-windows.exe](https://edgedl.me.gvt1.com/android/studio/install/2025.3.4.5/android-studio-panda4-rc1-windows.exe)（1.4 GB）
+
+SHA-256 校验和
+
+29bb2bec50298277f4d5879ab12c0ebe5d6f4c803a43f0a938cbdce05c857d1f android-studio-panda4-rc1-cros.deb
+
+da79fa07fbe7284fa2ac058a3a02c9de467fc3d39ba7208c3e8a070d0775dd6e android-studio-panda4-rc1-mac\_arm.dmg
+
+a4ade5d4d6cd1345da47cd44c9450bbafddf3680c9d5ae2308c6f9c528f6597e android-studio-panda4-rc1-mac.dmg
+
+68f04568f498a0d115015bf28ab6fcac4fb49cf6c4fc67976320ab1b3752ae31 android-studio-panda4-rc1-windows.exe
+
+ZIP 文件
+
+Linux：[android-studio-panda4-rc1-linux.tar.gz](https://edgedl.me.gvt1.com/android/studio/ide-zips/2025.3.4.5/android-studio-panda4-rc1-linux.tar.gz)（1.5 GB）
+
+Windows（64 位）：[android-studio-panda4-rc1-windows.zip](https://edgedl.me.gvt1.com/android/studio/ide-zips/2025.3.4.5/android-studio-panda4-rc1-windows.zip)（1.4 GB）
+
+SHA-256 校验和
+
+36236ad63fabccf5382ac2ca63299f8b9fd5c76067de12bc237395214165a17d android-studio-panda4-rc1-linux.tar.gz
+
+5cadcdae8dd6478edd3126f95b9309fdb0c09e76cb169589339f767a3ce556ae android-studio-panda4-rc1-windows.zip
+
+Android Studio Panda 3 | 2025.3.3 补丁 1 2026 年 4 月 13 日
+
+安装程序
+
+ChromeOS：[android-studio-panda3-patch1-cros.deb](https://edgedl.me.gvt1.com/android/studio/install/2025.3.3.7/android-studio-panda3-patch1-cros.deb)（1.1 GB）
+
+Mac（Apple Silicon）：[android-studio-panda3-patch1-mac\_arm.dmg](https://edgedl.me.gvt1.com/android/studio/install/2025.3.3.7/android-studio-panda3-patch1-mac_arm.dmg)（1.4 GB）
+
+Mac（Intel）：[android-studio-panda3-patch1-mac.dmg](https://edgedl.me.gvt1.com/android/studio/install/2025.3.3.7/android-studio-panda3-patch1-mac.dmg)（1.4 GB）
+
+Windows（64 位）：[android-studio-panda3-patch1-windows.exe](https://edgedl.me.gvt1.com/android/studio/install/2025.3.3.7/android-studio-panda3-patch1-windows.exe)（1.4 GB）
+
+SHA-256 校验和
+
+016555fcaff62fe363f734ec4fc65b998787e1e6d559746eb0eeba12dd6ee5eb android-studio-panda3-patch1-cros.deb
+
+7de5f12c57405d5101ca27ca184e6ef5fea67b9ad76f0e78ff87194dd79aedbc android-studio-panda3-patch1-mac\_arm.dmg
+
+efd3a5a671cc8d967c893ceba35eee13e09a08a0a4fb89ccb738621da62a8bbd android-studio-panda3-patch1-mac.dmg
+
+7f2a1b8101e5bffda27396574869be41bb493f0be3e6e54477d942f57ee58243 android-studio-panda3-patch1-windows.exe
+
+ZIP 文件
+
+Linux：[android-studio-panda3-patch1-linux.tar.gz](https://edgedl.me.gvt1.com/android/studio/ide-zips/2025.3.3.7/android-studio-panda3-patch1-linux.tar.gz)（1.4 GB）
+
+Windows（64 位）：[android-studio-panda3-patch1-windows.zip](https://edgedl.me.gvt1.com/android/studio/ide-zips/2025.3.3.7/android-studio-panda3-patch1-windows.zip)（1.4 GB）
+
+SHA-256 校验和
+
+153009f6b64fc0b80803fb8f2a5e1df61681c4b2f83b667e1fcb18e91a9a78e0 android-studio-panda3-patch1-linux.tar.gz
+
+fefbe64533ad1ac1c4c3066f2b78b636ef5b6aef74c40564a4d88cb07b1d440c android-studio-panda3-patch1-windows.zip
+
+
 __Android Studio Panda 4 | 2025\.3\.4 Canary 4 April 9, 2026__
 
 __Installers__
@@ -8866,7 +9890,7 @@ a0f66ccddd27b68763b816a212de317afdcfe0c44a573132b2e20135d9e4ac26 android\-studio
 
 5a3353ec7fba583887508bbf863ee6f11a3a9f829dfd998733f2915bd523505c android\-studio\-2023\.1\.1\.13\-windows\.zip
 
-  
+
 Android Studio Hedgehog | 2023\.1\.1 Canary 12 July 11, 2023
 
 Installers
@@ -13265,7 +14289,7 @@ e4a9964be0f46d6193c31985c57b9b0294014771d36a9e40a1a6e558bbeaf5dc android\-studio
 
 9fd96f6fe28710aa112044596e60c0139aa5fdc163c826ddd2e87d39e1b48265 android\-studio\-2021\.2\.1\.4\-windows\.zip
 
-  
+
 Android Studio Bumblebee | 2021\.1\.1 Beta 3 November 9, 2021
 
 Installers
