@@ -6,6 +6,10 @@ import android.os.Bundle
 import android.util.Log
 import android.view.ViewGroup
 import androidx.core.view.children
+import androidx.lifecycle.MutableLiveData
+import androidx.lifecycle.ViewModel
+import androidx.lifecycle.ViewModelProvider
+import androidx.lifecycle.lifecycleScope
 import com.didichuxing.doraemondemo.mc.MCActivity
 import com.didichuxing.doraemondemo.module.CrashTest
 import com.didichuxing.doraemondemo.module.DoKitItemView
@@ -20,6 +24,14 @@ import com.didichuxing.doraemondemo.module.leak.LeakActivity
 import com.didichuxing.doraemondemo.old.MainDebugActivityOkhttpV3
 import com.didichuxing.doraemonkit.DoKit
 import com.didichuxing.doraemonkit.util.ToastUtils
+import kotlinx.coroutines.CoroutineScope
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.GlobalScope
+import kotlinx.coroutines.MainScope
+import kotlinx.coroutines.delay
+import kotlinx.coroutines.launch
+import kotlinx.coroutines.withContext
+import java.util.Objects
 
 
 /**
@@ -49,6 +61,45 @@ class MainDoKitActivity : BaseStatusBarActivity() {
                 }
             }
         }
+        val scope = MainScope();
+        scope.launch(Dispatchers.IO) {
+            delay(200) //模拟长时间执行任务
+            withContext(Dispatchers.Main) {
+                // 更新UI
+            }
+        }
+        GlobalScope.launch(Dispatchers.IO) {
+            delay(200) //模拟长时间执行任务
+            withContext(Dispatchers.Main) {
+                // 更新UI
+            }
+        }
+        lifecycleScope.launch (Dispatchers.IO) {
+            delay(200) //模拟长时间执行任务
+            withContext(Dispatchers.Main) {
+                // 更新UI
+            }
+        }
+        val vm: MyViewModel = ViewModelProvider(this).get(MyViewModel::class.java)
+        vm.getData().observe(this,{
+            // 更新UI
+        })
+
+        //修改ViewModel
+        vm.setData("触发更新")
+    }
+
+    class MyViewModel: ViewModel() {
+        private val  data = MutableLiveData<String>()
+
+        public fun getData(): MutableLiveData<String> {
+            return data
+        }
+
+        public fun setData(st: String) {
+            data.value = st
+        }
+
     }
 
 
