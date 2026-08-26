@@ -567,6 +567,71 @@ fun TwoTexts(modifier: Modifier = Modifier) {
 }
 ```
 
+### MutableState
+
+- 三种方式
+
+  val state = remember { mutableStateOf(default) }
+
+  val value by remember { mutableStateOf(default) }
+
+  val (value, setValue) = remember { mutableStateOf(default) }
+
+![image-20260824113027139](compose\mutablestate.png)
+
+```kotlin
+// text：输入的字符串，setTextListener：发生变化时的监听
+val (text, setTextListener) = remember { mutableStateOf("") }
+Column {
+        Row(
+            Modifier
+                .padding(horizontal = 16.dp)
+                .padding(top = 16.dp)
+        ) {
+            TodoInputText(
+                text = text,
+                onTextChange = setTextListener,
+                modifier = Modifier.weight(1f).padding(end = 8.dp))
+            TodoEditButton(
+                onClick = {},
+                text = "Add",
+                modifier = Modifier.align(Alignment.CenterVertically),
+                enable = text.isNotBlank()
+            )
+        }
+    }
+@Composable
+fun TodoInputText(
+    text: String,
+    onTextChange: (String) -> Unit,
+    modifier: Modifier = Modifier
+) {
+    TextField(value = text, onValueChange = onTextChange)
+}
+
+@Composable
+fun TodoEditButton(
+    onClick: () -> Unit,
+    text: String,
+    modifier: Modifier = Modifier,
+    enable: Boolean = true
+) {
+    TextButton(
+        onClick = onClick,
+        shape = CircleShape,
+        colors = ButtonDefaults.buttonColors(),
+        modifier = modifier,
+        enabled = enable
+    ) {
+        Text(text = text)
+    }
+}
+
+
+
+
+```
+
 
 
 
